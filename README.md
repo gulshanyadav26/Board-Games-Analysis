@@ -35,23 +35,18 @@ This repository contains a Python script that analyzes a dataset of board games.
 
 ## Usage
 
-1. Clone the repository 📋:
-   ```bash
-   git clone https://github.com/yourusername/Games-Analysis.git
-   ```
-
-2. Install required libraries 🖥️:
+1. Install required libraries 🖥️:
    ```bash
    pip install pandas seaborn matplotlib
    ```
 
-3. Place the `games.csv` dataset in the same directory 📁
+2. Place the `games.csv` dataset in the same directory 📁
 
-4. Run the script 🚀:
+3. Run the script 🚀:
    ```bash
    python Games\ Dataset.py
    ```
 
 ## Acknowledgments
 
-- Dataset source: BoardGameGeek 🏆
+- Dataset source: Kaggle 🏆
